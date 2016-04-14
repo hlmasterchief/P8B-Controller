@@ -1,0 +1,112 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1.5pF
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 10
+D Resistor
+$ENDCMP
+#
+$CMP 100nF
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 100uF
+D Polarised capacitor
+$ENDCMP
+#
+$CMP 10k
+D Resistor
+$ENDCMP
+#
+$CMP 10uF
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 12pF
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 16MHz
+D Two pin crystal
+K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
+$CMP 1nF
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1pF
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1uF
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 2.2nF
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 3.6k
+D Resistor
+$ENDCMP
+#
+$CMP 3.9pF
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 32.768kHz
+D Two pin crystal
+K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
+$CMP 47nF
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 68
+D Resistor
+$ENDCMP
+#
+$CMP BLUE
+K LED
+$ENDCMP
+#
+$CMP BUTTON
+D Push Button
+K Switch
+$ENDCMP
+#
+$CMP CONN_BATT
+D Connector 01x05
+$ENDCMP
+#
+$CMP CONN_SHOULDER
+D Connector 01x05
+$ENDCMP
+#
+$CMP DMN2050L
+D Transistor N-MOSFET (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP GREEN
+K LED
+$ENDCMP
+#
+$CMP MMBT3904LT3G
+D Transistor NPN (general)
+K npn transistor
+$ENDCMP
+#
+$CMP ORANGE
+K LED
+$ENDCMP
+#
+$CMP ZHCS2000
+D Diode Schottky
+$ENDCMP
+#
+#End Doc Library
